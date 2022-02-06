@@ -1,6 +1,1 @@
-#include <iostream>
 
-int main(){
-    std::cout << "Hello, World!!!" << std::endl; //std라는 이름공간의 cout와 endl이다.
-    return 0;
-}
